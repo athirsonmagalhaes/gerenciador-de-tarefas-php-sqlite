@@ -28,7 +28,7 @@ Certifique-se de que a extensão **`pdo_sqlite`** do PHP esteja habilitada no se
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/athirsonmagalhaes/gerenciador-de-tarefas-php-sqlite.git](https://github.com/athirsonmagalhaes/gerenciador-de-tarefas-php-sqlite.git)
+    git clone https://github.com/athirsonmagalhaes/gerenciador-de-tarefas-php-sqlite.git
     cd gerenciador-de-tarefas-php-sqlite
     ```
 
